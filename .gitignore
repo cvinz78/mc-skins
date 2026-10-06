@@ -2,3 +2,9 @@
 old/
 tmp/
 .zcode/
+
+# Interne Arbeitsdokumente (nur lokal, nicht auf GitHub)
+AGENTS.md
+TASK.md
+SKILL.md
+DESIGN.md
