@@ -1,0 +1,4 @@
+# Lokale Arbeitsdateien — nicht Teil des oeffentlichen Repos
+old/
+tmp/
+.zcode/
