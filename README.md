@@ -1,3 +1,5 @@
+![Midnight Commander Skins — DarkGreen · BlueMoon · Creamy](screenshots/banner.png)
+
 # Midnight Commander Skins — DarkGreen · BlueMoon · Creamy
 
 Drei Truecolor-Farbschemas für den [Midnight Commander](https://midnight-commander.org/)
